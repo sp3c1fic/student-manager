@@ -17,10 +17,8 @@ Features
     Add Students from JSON File
     Users can upload a JSON file containing student records to add multiple students to the database at once. This is a convenient way to bulk-import student data.
 
-
-    DEMO
-    https://www.youtube.com/watch?v=gQKAHZomB2k
-
+DEMO
+https://www.youtube.com/watch?v=gQKAHZomB2k
 
 Installation
 
