@@ -1,0 +1,7 @@
+
+
+DB_NAME = ""
+DB_USER = ""
+DB_PASSWORD = ""
+HOSTNAME = ""
+PORT = 5432
